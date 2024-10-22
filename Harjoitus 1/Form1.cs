@@ -6,5 +6,10 @@ namespace Harjoitus_1
         {
             InitializeComponent();
         }
+
+        private void VaihdaBT_Click(object sender, EventArgs e)
+        {
+            otsikko.text = "";
+        }
     }
 }
