@@ -9,7 +9,7 @@ namespace Harjoitus_1
 
         private void VaihdaBT_Click(object sender, EventArgs e)
         {
-            otsikko.text = "";
+            otsikko.text = "Moi Pyry";
         }
     }
 }
